@@ -22,7 +22,7 @@
 1. **Clone repositori ini**:
 
    ```bash
-   git clone https://github.com/username/bugilped.git
+   git clone https://github.com/afzan354/bugilped.git
    cd bugilped
    ```
 
